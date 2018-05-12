@@ -1,0 +1,12 @@
+# generated stuff
+db/*
+incremental_db/*
+output_files/*
+simulation/*
+
+# window settings
+*.qws
+# idk what this is
+*.bak
+# idek
+qar_info.json
